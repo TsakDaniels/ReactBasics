@@ -1,0 +1,9 @@
+.glowing-cursor{
+    width: 700px; /* Adjust the width and height as needed */
+    height: 700px;
+    position:fixed; /* only works on fixed but makes unscrollable div */
+    border-radius: 50%;
+    background: radial-gradient(circle, #b7b7b71e 10%, transparent 60%);
+    margin-left:-350px;
+    margin-top:-350px;
+  }

@@ -1,0 +1,29 @@
+/* src/components/Navbar.css */
+.navbar {
+  background-color: #80808014;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    padding: 0 20px;
+    color: white;
+  }
+  
+.logo img {
+  max-width: 65px;
+  margin: auto;
+  justify-content: center;
+
+}
+
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 3;
+    }
+  }
+
+  
+  
